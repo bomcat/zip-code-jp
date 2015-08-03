@@ -8,7 +8,7 @@ require 'yaml'
 
 module ZipCodeJp
   class Export
-    ZIP_URL  = 'http://zipcloud.ibsnet.co.jp/zipcodedata/download?di=1372407257348'
+    ZIP_URL  = 'http://zipcloud.ibsnet.co.jp/zipcodedata/download?di=1438330238309'
 
     private
     def self.to_hash(row)
